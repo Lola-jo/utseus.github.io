@@ -11,7 +11,7 @@ This website is a course catalog for UTSEUS (上海大学中欧工程技术学�
 
 ## Online Preview
 
-The website is available online at [XXX网址](XXX网址). 
+The website is available online at [UTSEUS Lab](https://longfeih.github.io/utseus.github.io/). 
 
 ## Getting Started
 
